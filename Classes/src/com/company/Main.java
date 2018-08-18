@@ -9,7 +9,7 @@ public class Main {
         porsche.setModel("Carerra");
         System.out.println("Model is " + porsche.getModel());
 
-        System.out.println(porsche.getModel());
+        System.out.println(porsche.model);
 
     }
 }

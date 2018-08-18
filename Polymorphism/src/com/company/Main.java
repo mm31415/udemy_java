@@ -89,7 +89,7 @@ public class Main {
             case 4:
                 return new StarWars();
             case 5:
-                return new ForgetabbleMovie("Forgt");
+                return new ForgetabbleMovie("Forgot");
         }
 
         return null;

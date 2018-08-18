@@ -44,7 +44,7 @@ public class Main {
             } else {
                 i--;
             }
-//            scanner.nextLine();
+            scanner.nextLine();
         }
 
         return values;
